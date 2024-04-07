@@ -54,7 +54,16 @@ window.addEventListener("scroll", function () {
 });
 
 
+const scrollRevealOption = {
+  distance: "20px",
+  origin: "bottom",
+  duration: 100,
+};
 
+ScrollReveal().reveal("#blog", {
+  ...scrollRevealOption,
+  
+});
 
 
   
