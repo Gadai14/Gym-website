@@ -1,8 +1,8 @@
-<h1 style="text-align:center;"> 🏋️‍♂️ Fitlife 💪</h1>
-<br>
+<h1 style="text-align:center;">💪Fitlife : Refreshing Your Fitness Experience🏋️‍♂️  </h1>
+
 <h3>Description</h3>
 <p>Fitlife is a sleek and intuitive web platform to revolutionize your fitness journey. With a seamless blend of functionality and aesthetics, it offer everything you need to achieve your fitness goals in one place .</p>
-<br>
+
 <h3>Features</h3>
 <p>
   User-friendly Interface: Navigate effortlessly through the site with our intuitive design.<br>
@@ -10,7 +10,7 @@
   Interactive Training: Engage in interactive training sessions guided by professionals.<br>
 
 </p>
-<br>
+
 <h3>Demo Link</h3> 
 https://gadai14.github.io/Gym-website/fitlife-master
 <br>
