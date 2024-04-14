@@ -24,6 +24,9 @@ https://gadai14.github.io/Gym-website/fitlife-master
 <img src="https://github.com/Gadai14/Gym-website/assets/121002242/13a18a0d-c80c-4750-b130-606b942f1903">
 <img src="https://github.com/Gadai14/Gym-website/assets/121002242/a20e1f60-12b3-4a81-9a93-4b2ed903b6a6">
 <img src="https://github.com/Gadai14/Gym-website/assets/121002242/9452777d-7e6d-4801-a0e4-f407d807d89c">
+<img src="https://github.com/Gadai14/Gym-website/assets/121002242/ca355045-dfe4-49aa-9016-0317f83604f3">
+<img src="https://github.com/Gadai14/Gym-website/assets/121002242/1a0e35d4-2b14-4ffa-869d-516f9ff636bb">
+
 
 <h3>Installation</h3>
 <p>
