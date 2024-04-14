@@ -27,14 +27,11 @@ https://gadai14.github.io/Gym-website/fitlife-master
 
 <h3>Installation</h3>
 <p>
-Clone the repository: git clone https://github.com/Gadai14/Gym-webiste.git <br>
-Navigate to the project directory.<br>
-Open index.html in your preferred web browser.
+- Clone the repository: git clone https://github.com/Gadai14/Gym-webiste.git <br>
+-  to the project directory.<br>
+  - Open index.html in your preferred web browser.
 
-- First bullet point
-- Second bullet point
-  - Sub-bullet point
-- Third bullet point
+
 
 
   
