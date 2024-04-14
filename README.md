@@ -32,7 +32,10 @@ https://gadai14.github.io/Gym-website/fitlife-master
   - Open index.html in your preferred web browser.
 
 
-
+- First bullet point
+- Second bullet point
+  - Sub-bullet point
+- Third bullet point
 
   
 </p>
