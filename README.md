@@ -35,7 +35,6 @@ https://gadai14.github.io/Gym-website/fitlife-master
 - Clone the repository: git clone https://github.com/Gadai14/Gym-webiste.git 
 - Go to the project directory.
   - Open index.html in your preferred web browser.
-- 
 
   
 </p>
